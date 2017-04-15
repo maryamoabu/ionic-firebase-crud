@@ -32,8 +32,7 @@ $ npm install
 After installing node modules you have to install firebase.
 
 ```bash
-npm install firebase --save
-npm install git+https://github.com/angular/angularfire2.git
+$ npm install firebase angularfire2 --save
 ```
 this command add angularfire2 to your package.json file for your firebase database use.
 
